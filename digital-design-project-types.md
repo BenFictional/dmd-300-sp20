@@ -5,7 +5,7 @@ The following is a list of media that you might choose to work with in your proj
 1. What form \(i.e. finished product\) will work best for communicating your content?
 2. What skills or techniques do you want to master?
 
-Additional resources for learning these fields can be found at the end of the course materials under [Project Categories](/project-categories.md), but your learning path will be largely self-directed—with advice from your instructor of course! 
+Additional resources for learning these fields can be found at the end of the course materials under [Project Categories](/project-categories.md), but your learning path will be largely self-directed—with advice from your instructor of course!
 
 * **Animation \(2D, 3D\)**
   * Short film
