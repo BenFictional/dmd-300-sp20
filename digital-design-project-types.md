@@ -1,9 +1,16 @@
 # Digital Design Project Types
 
+The following is a list of media that you might choose to work with in your projects for this class. This isn't comprehensive and people are always discovering new ways to create experiences and tell stories, but you can use this as a menu to browse and consider:
+
+1. What form \(i.e. finished product\) will work best for communicating your content?
+2. What skills or techniques do you want to master?
+
+Additional resources for learning these fields can be found at the end of the course materials under [Project Categories](/project-categories.md), but your learning path will be largely self-directed—with advice from your instructor of course! 
+
 * **Animation \(2D, 3D\)**
   * Short film
   * Explainer animation
-  * motion graphics \(bumper animations, commercials, titles)
+  * motion graphics \(bumper animations, commercials, titles\)
   * Experimental
   * VJ Loops
   * Projection Mapping
@@ -23,7 +30,7 @@
     * Logo design
     * Web design and/or development
     * Stationary or merchandise design
-  * Typeface design
+  * Typeface design 
   * Illustrations
     * Comic \(print or web\)
     * Children's book
@@ -37,9 +44,10 @@
   * Short-film
   * Music video
   * Abstract performance capture
+  * Audio experience/podcast
 * **Installation or physical design intervention**
-  * Physical computing and IoT device
-  * Art or design installation proposal
+  * Physical computing and IoT device \(e.g. Arduino, Rasberry Pi, and circuit building\)
+  * Art or design installation 
   * Organize design-based event
 
 
