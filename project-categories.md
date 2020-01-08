@@ -6,7 +6,7 @@ A typical capstone project will fall within one of the following categories. Eac
 * [Realtime and interactive](/realtime-and-interactive.md)
 * [Product, service, UI/UX](/product-service-uiux.md)
 * [2D / 3D design and illustration](/2d-3d-design-and-illustration.md)
-* [Video production](/video-production.md)
+* [Audio/Video production](/video-production.md)
 * [Art or design intervention](/art-or-design-intervention.md)
 
 

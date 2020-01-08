@@ -2,10 +2,10 @@
 
 ## Types of animation projects
 
-Animation projects can be fully 2D, 3D, or a combination of the two. 
+Animation projects can be fully 2D, 3D, or a combination of the two.
 
 1. Short film 
-2. Explainer animation
+2. Explainer animation \([Vox](https://www.youtube.com/user/voxdotcom) makes a lot of fun infographic style videos\)
 3. Motion graphics \(bumper animations, commercials, titles, user interface elements in 3D environments\)
 4. Experimental: [Examples on vimeo.com](https://vimeo.com/categories/experimental)
 5. Scientific or data-driven simulations and visualizations
@@ -29,11 +29,15 @@ The following are common production requirements for most types of animations, a
    * [Final Draft](https://www.finaldraft.com/)
 4. **Mood boards**
    * [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
+   * [InVision ](https://www.invisionapp.com/)Inspiration Board tool
 5. **Animatic and layout**
    * [Animatic](https://www.lynda.com/Animation-tutorials/Animatics-layouts/466191/511830-4.html?org=psu.edu)
 6. **Sound recording**
    * [Sound foley](https://www.youtube.com/watch?v=U_tqB4IZvMk)
-   * [Recording narration and actor dialogue](http://www.scarycow.com/lowbudgetaudio/)
+   * \[Recording narration and actor dialogue\]\([http://www.scarycow.com](http://www.scarycow.com)
+   * [FreeSound](https://freesound.org/) — Library of Creative commons sound effects
+   * [Free Music Archive](https://freemusicarchive.org/) — Library of creative commons music
+     /lowbudgetaudio/\)
 7. **Testing** renders, lighting, animation, and simulation as needed
 8. **Animation production**
    * Traditional animation
@@ -47,10 +51,19 @@ The following are common production requirements for most types of animations, a
      * [Lynda learning path](https://www.lynda.com/learning-paths/Video/become-a-motion-graphics-artist)
      * Tools: [AfterEffects](https://www.adobe.com/products/aftereffects.html), [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 9. **Scoring**
-   * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
-   * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
-   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+
+   * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu) — Industry standard for recording and mixing; expensive.
+   * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu) — Simple MIDI instruments and editing. 
+   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu) — Edit audio right in your video editor or export entire projects to Audition...
+
+   * [Adobe Audition](https://www.adobe.com/products/audition.html) — Dedicated audio editor, record and mix \(no MIDI instruments\)
+
+   * [Ableton Live](https://www.ableton.com/en/) — Great MIDI and recording suite, relatively cheap, great for electronic music.
+
+   * [Logic Pro](https://www.apple.com/logic-pro/) — Record and mix, MIDI instruments \(especially ones that sound like traditional strings, brass, etc.\)
+
 10. **Effects, editing, compositing, rendering**
+
     * Effects
       * [Adobe AfterEffects](https://www.lynda.com/After-Effects-tutorials/After-Effects-CC-2018-VFX-Essential-Training/648933-2.html?org=psu.edu)
     * Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
@@ -60,9 +73,9 @@ The following are common production requirements for most types of animations, a
       * [Natron](https://natrongithub.github.io/)
       * [Nuke](https://www.foundry.com/products/nuke)
       * [Blender compositing](https://www.youtube.com/watch?v=A0lvJXc19Kk)
-   * Rendering from realtime
-     * [Unity cutscenes](https://www.youtube.com/watch?v=7SsqUb9FgW8)
-     * [UnrealEngine sequencer](https://www.youtube.com/watch?v=7dVHhwGBCQQ)
+        \*. Rendering from realtime
+      * [Unity cutscenes](https://www.youtube.com/watch?v=7SsqUb9FgW8)
+      * [UnrealEngine sequencer](https://www.youtube.com/watch?v=7dVHhwGBCQQ)
 
 ### Proof of concept
 

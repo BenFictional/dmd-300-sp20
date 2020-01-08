@@ -56,6 +56,7 @@
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
    * [Ableton Live](https://www.ableton.com/en/)
    * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+   * Adobe Audition
 7. **Asset production**
    * Game assets
    * Props or devices

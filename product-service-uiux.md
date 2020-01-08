@@ -34,7 +34,7 @@ There are a few ways to approach a project design project. To participate in a r
    * Polygonal/Nurbs modeling
      * Blender, Autodesk Maya, Maxon C4D, Foundry Modo
    * Digital fabrication
-     * [3D printing](https://www.shapeways.com)
+     * [3D printing](https://www.shapeways.com) — Shapeways will print designs and mail them to you. 
      * [Laser cutting](https://sendcutsend.com)
      * Advanced fabrication: CNC Routing, turning, and milling, water-jet cutting \(using fabrication equipment requires proximity to PSU Main Campus and coordination with facility operators in advance\)
      * Device programming: [Arduino](https://www.arduino.cc/)
@@ -45,6 +45,7 @@ There are a few ways to approach a project design project. To participate in a r
    * Web design and development
      * Website dev tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [Git Pages Tutorial 1](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), [Git Pages Tutorial 2](https://www.youtube.com/watch?v=SWVjQsvQocA)
      * "App" tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [CodeSandbox.io](https://codesandbox.io/dashboard/recent)
+     * [Webflow](https://webflow.com/): powerful visual development app \(like Wix and other drag-and-drop tools but much closer to professional dev capabilities\).
      * **Everything list:** [Extensive list of web tools and technology](https://free-for.dev/)
 3. Testing and analysis
    * User testing
