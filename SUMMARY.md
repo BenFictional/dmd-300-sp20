@@ -17,11 +17,11 @@
     * [Phase 4: Sprint!](project-1/phase-4-design-sprint.md)
     * [Phase 5: Document](project-1/phase-5.md)
   * [Project 2: Independent Design Project](individual-design-project.md)
-    * [Project 2 Concept Pitch](design-project-2/project-2-concept-pitch.md)
-    * [Project 2 Work Statement](design-project-2/project-2-work-statement.md)
-    * [Project 2 Production Reports](design-project-2/project-2-production-reports.md)
-    * [Project 2 Documentation](design-project-2/project-2-documentation.md)
-    * [Project 2 Files](design-project-2/project-2-files.md)
+    * [Concept Pitch](design-project-2/project-2-concept-pitch.md)
+    * [Work Statement](design-project-2/project-2-work-statement.md)
+    * [Production Reports](design-project-2/project-2-production-reports.md)
+    * [Documentation](design-project-2/project-2-documentation.md)
+    * [Files](design-project-2/project-2-files.md)
   * [Writing Project](writing-project.md)
 * [Project categories](project-categories.md)
   * [Animation](animation.md)
@@ -31,4 +31,6 @@
   * [Video production](video-production.md)
   * [Art or design intervention](art-or-design-intervention.md)
 * [License](license.md)
+
+
 
