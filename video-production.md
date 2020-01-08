@@ -14,19 +14,23 @@ If you are interested in creating an audio-focused project, it would be good to 
 
 Depending on the type of project, you may need more or fewer steps than what are listed here.
 
-**Note:** For most projects, you will need access to high-end video and audio equipment, though a lofi aesthetic or concept realted to everyday devices could work well with phone cameras.
+**Note:** For most projects, you will need access to high-end video and audio equipment, though a lofi aesthetic or concept realted to everyday devices could work well with phone cameras. Smartphone cameras limit you to very wide angle lenses, but filmakers like Stephen Soderbergh have shot feature films with them!
 
 1. **Reccommended Gear**
 
-   * DSLR camera — greater [depth of field](https://digital-photography-school.com/understanding-depth-field-beginners/) control than a camcorder.
+   * DSLR camera — greater [depth of field](https://digital-photography-school.com/understanding-depth-field-beginners/) and lens customization than a camcorder.
    * Tripod — Required for most professional video work.
+
+   * [Smartphone tripod](https://www.amazon.com/Joby-GripTight-Smartphone-Action-Flexible/dp/B075M7MK35) — If shooting with a phone, you can still get a tripod!
 
    * Shotgun \(hypercardiod microphone\) — Best for directional recording if your subject is speaking; Rode makes good ones for DSLR cameras.
 
-   * Lighting: a [reflector board](https://www.bhphotovideo.com/c/product/1016048-REG/raya_cr_51_42_5_in_1_collapsible_reflector_disc.html) or piece of white foamcore can reflect light towards your subject, but electric lights on stands are best for stationary indoor photography. 
+   * Lighting: a [reflector board](https://www.bhphotovideo.com/c/product/1016048-REG/raya_cr_51_42_5_in_1_collapsible_reflector_disc.html) or piece of white foamcore can reflect light towards your subject, but electric lights on stands are best for stationary indoor photography.
 
 2. **Synopsis**
+
    * write a short synopsis of the video work.
+
 3. **Storyboarding**
    * [Storyboarder App](https://wonderunit.com/storyboarder/)
    * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
@@ -48,10 +52,12 @@ Depending on the type of project, you may need more or fewer steps than what are
 
    * [Adobe Audition](https://www.adobe.com/products/audition.html) — Dedicated audio editor, record and mix \(no MIDI instruments\)
 
-   * [Ableton Live](https://www.ableton.com/en/) — Great MIDI and recording suite, relatively cheap, great for electronic music. 
+   * [Ableton Live](https://www.ableton.com/en/) — Great MIDI and recording suite, relatively cheap, great for electronic music.
+
    * [Logic Pro](https://www.apple.com/logic-pro/) — Record and mix, MIDI instruments \(especially ones that sound like traditional strings, brass, etc.\)
 
 7. **Effects, editing, compositing, rendering**
+
    * Effects
      * [Adobe AfterEffects](https://www.lynda.com/After-Effects-tutorials/After-Effects-CC-2018-VFX-Essential-Training/648933-2.html?org=psu.edu) — Add special effects, advanced animations, title sequences, etc. 
    * Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
