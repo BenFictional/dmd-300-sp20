@@ -52,11 +52,15 @@
    * [Sound foley](https://www.youtube.com/watch?v=U_tqB4IZvMk)
    * [Recording narration and actor dialogue](http://www.scarycow.com/lowbudgetaudio/)
 6. **Scoring**
-   * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
-   * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
-   * [Ableton Live](https://www.ableton.com/en/)
-   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
-   * Adobe Audition
+   * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu) — Simple MIDI instruments and editing. 
+   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu) — Edit audio right in your video editor or export entire projects to Audition...
+   * [Adobe Audition](https://www.adobe.com/products/audition.html) — Dedicated audio editor, record and mix \(no MIDI instruments\)
+   * [Ableton Live](https://www.ableton.com/en/) — Great MIDI and recording suite, relatively cheap, great for electronic music.
+   * [Logic Pro](https://www.apple.com/logic-pro/) — Record and mix, MIDI instruments \(especially ones that sound like traditional strings, brass, etc.\)
+   * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu) — Industry standard for recording and mixing; expensive.
+
+
+
 7. **Asset production**
    * Game assets
    * Props or devices
