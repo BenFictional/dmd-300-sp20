@@ -1,4 +1,4 @@
-# Project 2 Work Statement
+# Work Statement
 
 Develop a 150–500 word work statement that thoughtfully employs relevant and critical art and design language. This statement should be developed with feedback from your instructor to adjust tone, terminology, and structure. You will use MS Word tracked changes to refine and edit the statement over the duration of the project.
 
@@ -39,9 +39,6 @@ Please write the statement using proper grammar, sentence structure, and with co
 ## Submission details:
 
 1. Upload the work statement as an MS Word Document to Canvas as indicated deadlines.
-
-
-
 
 
 

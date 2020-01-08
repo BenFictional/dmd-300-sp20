@@ -4,9 +4,9 @@
 
 In this project, you will work in small team to produce a design process, digital media, and documentation. Your team will build its own project by setting meeting agendas, creating a concept pitch, develop and use a design process/sprint structure, track and document progress using a project blog, and produce project documentation. The project outcomes can take the form of any combination of digital media formats including 2D, 3D, video and motion design, interactive and web, UX/UI app design, and product design. The projects could emphasize a wide range of approaches including tool building, product or service, marketing or awareness campaigns, calls to action, open-source tools, traditional or experimental digital story telling, speculative design, wayfinding, identity systems, toolkits, educational materials, etc.
 
-Please read through [project categories](/project-categories.md) to learn more about the types of projects possible to produce and their production needs.
+Please read through [project categories](/project-categories.md) to learn more about the types of projects possible to produce and their production needs. While the media and form of your project is up to you, the following focus word should be used as a jumping off point for your project's concept.
 
-**The project's concept focus word:** "Nudge"
+**The project's concept focus word is:** **"Nudge"**
 
 The word "nudge" in the design sense refers to small adjustments or changes that can have a large impact to behavior or positive outcomes. Your team is encouraged to steer this project in a direction based on your interests.
 
@@ -49,7 +49,9 @@ Though working on a design team as part of a class project can not fully mimic r
 
 ## Rubric
 
-This project is graded as a team. All members will receive the same grade. All project deliverables must be met for the project to be graded. A non-submission or non-completion for any project phase is considered an incomplete project.
+**This final project is graded as a team.** All members will receive the same grade.
+
+All project deliverables must be met for the project to be graded. A non-submission or non-completion for any project phase is considered an incomplete project.
 
 1. Produced and submitted project deliverables according to requirements: 40%
 2. Project outcomes: 

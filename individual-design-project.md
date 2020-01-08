@@ -8,7 +8,7 @@ For this project, you will produce a digital design work that critically engages
 
 **Project title template:** "_\[ topic \]_ Futures"
 
-Choose a topic that is meaningful to you and apply it to the title template to assemble your project's title. The title is also the general theme of your project. For instance, to create work that engages in discourse of politics, you could create a theme called "Political Futures".
+Choose a topic that is meaningful to you and apply it to the title template to assemble your project's title. The title is also the general theme of your project. For instance, to create work that engages in discourse of politics, you could create a theme called "Political Futures" or something more specific...
 
 ### Theme description
 
@@ -23,6 +23,9 @@ Futures projects are typically optimistic works that engage with important topic
 * [IKEA Concept Kitchen 2025](https://www.youtube.com/watch?v=qD60cBQOABY)
 * [London College of Comm](https://masedi.myblog.arts.ac.uk/tag/global-design-futures/)
 * [Learn2050](http://www.idsa.org/educationpaper/learn2050-and-design-futures)
+* [Speculative Everything](https://ebookcentral.proquest.com/lib/pensu/detail.action?docID=3339745) \(available as ebook through PSU library\).
+* [We Make Money Not Art](https://we-make-money-not-art.com/?s=future) \(posts tagged with "future"\)
+* [Speculative Futures](https://twitter.com/Futures_Design) \(Twitter\)
 
 ## Deliverables
 
@@ -33,7 +36,6 @@ Futures projects are typically optimistic works that engage with important topic
 5. [**Project files:**](/design-project-2/project-2-files.md) \(Canvas\)
 6. [**Project documentation**](/design-project-2/project-2-documentation.md) \(Canvas, production blog\)
 7. **Online exhibition information form: See on Canvas**
-
 
 ## Project media
 

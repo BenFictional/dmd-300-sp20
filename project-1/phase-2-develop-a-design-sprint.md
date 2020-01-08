@@ -1,8 +1,12 @@
 # Phase 2: Develop a design sprint
 
-You will develop a preliminary design sprint schedule document and [project blog](http://sites.psu.edu).
+## What's a Design Sprint?
 
-The document should include:
+Developed by GV \(Google Ventures, a subsidiary of Alphabet\), a design sprint is a specific format to develop solutions to a design problem. You can read their [explanation of the process](https://www.thesprintbook.com/how) or watch this [90 second video explainer](https://www.youtube.com/watch?v=K2vSQPh6MCE). The GV Design Sprint is supposed to be an accelerated design process that packs brainstorming, prototyping, and user testing into five days. We won't follow their methods exactly, but the links above may help guide you as you design a process that works for your group and schedule.
+
+For Phase 2 of this project, each group will develop a preliminary design sprint schedule document and [project blog](http://sites.psu.edu).
+
+The sprint document should include:
 
 1. **Cover/title page** 
    * **Title:** Design Sprint Schedule
@@ -19,14 +23,17 @@ The document should include:
      * Analysis, feedback
    * **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. 
 
-The project blog should be hosted using [Sites and Penn State](http://sites.psu.edu). Your team should use this blog to track the progress of the project and to show interesting project outcomes.
+The project blog should be hosted using [Sites at Penn State](http://sites.psu.edu) \(which uses Wordpress\). Your team should use this blog to track the progress of the project and to show interesting project outcomes.
 
+* [You can add multiple users](https://www.wpbeginner.com/beginners-guide/how-to-add-new-users-and-authors-to-your-wordpress-blog/) to a blog so everyone can edit and create posts. 
 * If any project team members are concerned about privacy, project members may use a pseudonym \(pen name\) and in addition, the blog is able to be password protected to Penn State WebAccess users. Please contact your instructor if this is a concern and need help with blog configuration.
 
 ## Submission details:
 
-1. Publish a link to the project blog, even if currently blank, on the related Canvas discussion.
-2. Upload a .zip file to the canvas assignment that includes:
+1. Publish a link to the project blog, even if currently blank, on the classwide Canvas discussion.
+2. Upload a .zip file to the Phase 2 Canvas assignment that includes:
    * Link to the blog in the assignment submission
    * Design Sprint Schedule document in PDF format.
+
+
 

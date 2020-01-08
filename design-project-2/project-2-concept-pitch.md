@@ -1,4 +1,4 @@
-# Project 2 concept pitch
+# Concept pitch
 
 The concept pitch is a presentation document that serves as a both a communication tool and as a means of ensuring that you develop a project with that can be reasonably accomplished in the given timeframe. This project concept pitch should have no less than 10 slides. The basic structure is as follows:
 

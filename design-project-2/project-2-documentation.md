@@ -1,13 +1,13 @@
-# Project 2 Documentation
+# Documentation
 
 1. **Title slide**
    1. Title
    2. Name
    3. Date
-   4. Course ("DMD 300: Digital Multimedia Design Studio")
-   5. Semester (Example: "Spring 2019")
+   4. Course \("DMD 300: Digital Multimedia Design Studio"\)
+   5. Semester \(Example: "Spring 2019"\)
 2. **Bio**
-  - Include a bio that describes relevant interests, skills, and capabilities.
+   * Include a bio that describes relevant interests, skills, and capabilities.
 3. **Work Statement**
    * Copy in work statement language developed during project 2. 
 4. **Design process overview**
@@ -35,3 +35,6 @@
 
 1. Upload the PDF document to the canvas assignment by the deadline.
 2. Upload PDF to production blog by the deadline.
+
+
+

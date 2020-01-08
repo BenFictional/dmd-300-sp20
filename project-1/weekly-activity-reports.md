@@ -1,6 +1,6 @@
 # Weekly Activity Reports
 
-At the end of each week, you will submit a short report of group project activity. This shows that you understand what each member is contributing and demonstrates your own contributions to the project.
+At the end of each week, each individual student will submit a short report of group project activity. This shows that you understand what each member is contributing and demonstrates your own contributions to the project.
 
 ## Requirements:
 

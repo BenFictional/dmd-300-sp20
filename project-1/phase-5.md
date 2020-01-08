@@ -37,5 +37,5 @@
 
 ## Submission details:
 
-Upload the PDF document to the canvas assignment by the due date and time listed.
+Upload the PDF document to the canvas assignment by the due date and time listed \(only one person in the group needs to submit the file to the group assignment\).
 

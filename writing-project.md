@@ -6,11 +6,13 @@ Locate two to five artists, designers, or influential art or design studios that
 
 The following are not required 'sections,' rather they are prompts to help you focus your writing and research.
 
-   1. Summarize their work, their legacy and their impact on a particular art or design field.
-   2. Can you identify central themes, patterns, or behaviors in their work or habits?
-   4. What is the context of their work? Was the work a part of an art or design movement, or influential period in art or design history?
-   3. What was their path to get to where they are?  
-   4. Distill their ideas and achievements into main points and then relate those points to your own work, interests, learning path, and/or future plans.
+1. Summarize their work, their legacy and their impact on a particular art or design field.
+2. Can you identify central themes, patterns, or behaviors in their work or habits?
+3. What is the context of their work? Was the work a part of an art or design movement, or influential period in art or design history?
+4. What was their path to get to where they are?  
+5. Distill their ideas and achievements into main points and then relate those points to your own work, interests, learning path, and/or future plans.
+
+Whatever you choose to focus on, organzie your thoughts into a cohesive essay, including an introduction, conclusion, and paragrpahs devoted to discrete topics. Build your essay around a main idea or opinion of the work in question. Don't just summerize! Reveal your own point of view and connections by offering a new take on the material. 
 
 ## Requirements
 
@@ -24,6 +26,9 @@ Rubric
 
 1. Word count met: 5%
 2. Formal writing style. Includes use of art and design vocabulary throughout writing: 40% 
-  * [This list is a decent reference](http://learn.leighcotnoir.com/artspeak/art-vocabulary/).
-4. Thoughtfully and critically answered writing prompts: 45%
-3. Spelling, punctuation, grammar: 10%
+   * [This list is a decent reference](http://learn.leighcotnoir.com/artspeak/art-vocabulary/).
+3. Thoughtfully and critically answered writing prompts: 45%
+4. Spelling, punctuation, grammar: 10%
+
+
+

@@ -6,8 +6,16 @@
 2. **Consider setting roles and responsibilities.** Members may have multiple roles.
 3. If your team feels that the design process isn't working as intended, feel free to change up the design of the sprint. However, don't give up too early, sometimes you have to trust the process to give it a chance to work.
 
+## Resources
+
+* WP Beginner: [How to Add a New Post in WordPress and Utilize all the Features](https://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/)
+
+
+
 ## Submission details:
 
 1. Publish 4 or more detailed posts to the [http://sites.psu.edu](http://sites.psu.edu) blog that you created to track your project's progress from the design sprint. Upload media and write descriptions and other relevant information.
 2. The end results of the design process are included in what gets published on this blog, they do not need to be uploaded to canvas other than what is included in the project document PDF.
+
+
 
