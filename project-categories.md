@@ -9,5 +9,7 @@ A typical capstone project will fall within one of the following categories. Eac
 * [Audio/Video production](/video-production.md)
 * [Art or design intervention](/art-or-design-intervention.md)
 
+**NOTE: **There are many links on the following pages to video courses on Lynda.com — as of January 2020, those links may not work. You can still find the relevent courses by searching for the name on [LinkedIn Learning](https://www.linkedin.com/learning/) \(the new name for Lynda.com\). 
+
 
 
