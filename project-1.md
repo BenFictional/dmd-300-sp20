@@ -8,11 +8,7 @@ Avoid basing your proejct around existing intellectual properties \(movies, comi
 
 Please read through [project categories](/project-categories.md) to learn more about the types of projects possible to produce and their production needs. While the media and form of your project is up to you, the following focus word should be used as a jumping off point for your project's concept.
 
-
-
 ### **The project's concept focus word is:** **"Inclusive"**
-
-
 
 > Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives.
 

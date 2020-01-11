@@ -4,30 +4,59 @@
 
 For this project, you will produce a digital design work that critically engages with the project's theme. You will also develop a design concept, production process, and a well-articulated work statement to explains your work to a wide audience. Your work will then be collectively displayed in a class-wide online exhibition.
 
-Avoid basing your proejct around existing intellectual properties \(movies, comics, games, etc.\) unless you do something conceptually sophisticated like a parody, deconstruction, etc. 
+Avoid basing your proejct around existing intellectual properties \(movies, comics, games, etc.\) unless you do something conceptually sophisticated like a parody, deconstruction, etc.
 
-## Project Theme
+## Project Theme: Cyborgs
 
-**Project title template:** "_\[ topic \]_ Futures"
+> Cybernetics: Control and communication in the animal and the machine
 
-Choose a topic that is meaningful to you and apply it to the title template to assemble your project's title. The title is also the general theme of your project. For instance, to create work that engages in discourse of politics, you could create a theme called "Political Futures" or something more specific...
+– Norbert Weiner, Cybernetics \(1948\)
 
-### Theme description
+> The relation between organism and machine has been a border war. The stakes in the border war have been the territories of production, reproduction, and imagination. \[This\] is an argument for pleasure in the confusion of boundaries and for responsibility in their construction.
 
-Futures projects are typically optimistic works that engage with important topics \(critical issues\) and examine the opportunities for improvement, change, activism, and betterment of a given situation. Futures projects are often categorized as speculative, discursive, or otherwise as critical design and tend to provide an array of potential outcomes. There are no hard definitions for how futures projects are created, but they often tend to mix fictional elements while maintaining firm grip with contemporary reality—meaning that futures projects often tend to take place or speculate about the future, yet have currency in present day life.
+– Donna Haraway, A Cyborg Manifesto
 
-**Example futures projects and topics:**
+In her 1985 essay [A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century](https://link-springer-com.ezaccess.libraries.psu.edu/chapter/10.1007%2F978-1-4020-3803-7_4), Donna Haraway uses the term "cyborg" as a metaphor for contemporary existence and it's blurry boundaries. Her idea of a cyborg is "a condensed image of both imagination and material reality" and "resolutely committed to partiality, irony, intimacy, and per- versity. It is oppositional, utopian, and completely without innocence." Haraway believes that tradtional dualisms like _natrual/artificial_ are no longer relevent; she describes traditional Western science and politics as "racist, male-dominant capitalism; the tradition of progress; the tradition of the appropriation of nature as resource for the productions of culture." Her cyborg manifesto is an attempt to describe citizens of the future.
 
-* [Near Future Design](http://www.artisopensource.net/projects/near-future-design/)
-* [AIGA Design futures](https://www.aiga.org/aiga-design-futures/introduction-to-design-futures/)
-* [RISD Repair and Design Futures](https://risdmuseum.org/exhibitions-events/exhibitions/repair-and-design-futures)
-* [Stanford2025](http://www.stanford2025.com/)
-* [IKEA Concept Kitchen 2025](https://www.youtube.com/watch?v=qD60cBQOABY)
-* [London College of Comm](https://masedi.myblog.arts.ac.uk/tag/global-design-futures/)
-* [Learn2050](http://www.idsa.org/educationpaper/learn2050-and-design-futures)
-* [Speculative Everything](https://ebookcentral.proquest.com/lib/pensu/detail.action?docID=3339745) \(available as ebook through PSU library\).
-* [We Make Money Not Art](https://we-make-money-not-art.com/?s=future) \(posts tagged with "future"\)
-* [Speculative Futures](https://twitter.com/Futures_Design) \(Twitter\)
+She uses these concept words to illustrate how cybernetic beings or products differ from their predecessors:
+
+| Traditional \(Past\) | Cybernetic \(Future\) |
+| :--- | :--- |
+| Representation | Simulation |
+| Realism | Postmodernism |
+| Organism | Biotic component |
+| Depth, integrity | Surface, boundary |
+| Heat | Noise |
+| Sex | Genetic engineering |
+| Labor | Robotics |
+| Mind | Artificial Intelligence |
+
+## Project Description
+
+You can interperate the theme of **cybernetics **and** cyborgs** however you see fit. Besides literal cyborgs like Darth Vader or people with prosthetics, consider a variety of boundaries that you can or interfer with, blend, or exploit:
+
+* Human/machine
+* Natural/Artificial
+* Analog/Digital
+* Visual/Auditory
+* Interior/Exterior
+* Micro/Macro
+* Personal/Public
+* ???
+
+## Further Inspiration
+
+* [A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century](https://link-springer-com.ezaccess.libraries.psu.edu/chapter/10.1007%2F978-1-4020-3803-7_4), Donna Haraway \(PSU library\)
+  * Scroll down to "Download to read the full chapter text" to download this specific chapter \(chapter 4\).
+* [Prosthetic Limbs Controlled by Thought ](https://www.nytimes.com/2015/05/21/technology/a-bionic-approach-to-prosthetics-controlled-by-thought.html)\(New York Times video and article\)
+* [Cyborg-Centered Design: Designing the Hearing Experience for Cochlear Implant Users](https://design.ncsu.edu/andso/2017/06/01/cyborg-centered-design/) \(Graduate Journal of Graphic Design\)
+* [5 Lessons From Biology That Predict Successful UX & Products Of The Future ](https://uxdesign.cc/5-lessons-from-biology-that-predict-successful-ux-products-of-the-future-7492ffead5bf)\(UX Collective\)
+* [I have magnets implanted in my hands](https://magnetfinge.rs/) \(website by Charlotte Dann\)
+* [How Biology Inspires Future Technology](https://www.smithsonianmag.com/smithsonian-institution/how-biology-inspires-future-technology-180972953/) \(Smithsonian Magazine\)
+* [The Prosthetic Instruments](http://ianhattwick.com/the-prosthetic-instruments/) \(artwork by Ian Hattwick\)
+* [Animal Superpowers ](https://chriswoebken.com/Animal-Superpowers)\(artwork by Chris Woebken\)
+* [Interview with artist/architect Liam Young](http://www.uncubemagazine.com/blog/15928129) \(Uncube\)
+* [Natalie Jeremijenko: Let's teach fish to text! and other outlandish ideas](https://www.youtube.com/watch?v=3GBrJiSMFu0&feature=emb_title) \(TED talk; 20min\)
 
 ## Deliverables
 
