@@ -9,7 +9,7 @@
 2. **Bio**
    * Include a bio that describes relevant interests, skills, and capabilities.
 3. **Work Statement**
-   * Copy in work statement language developed during project 2. 
+   * A final draft of work statement language developed during Project 2. 
 4. **Design process overview**
    * Timeline of events
    * List methods used with brief descriptions
@@ -21,7 +21,7 @@
    * Include figures and diagrams of conceptual relationships
    * Describe media used in digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
 6. **Images**
-   * Include four–eight images that show key features of your work with short descriptions of each image.
+   * Include 4–8 images that show key features of your work with short descriptions of each image.
 7. **Bibliography**
    * You can choose either APA or MLA format for document. See [documentation resources](/documentation-resources.md) for help.
 

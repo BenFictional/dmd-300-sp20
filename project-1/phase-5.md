@@ -8,6 +8,7 @@
    * Team members
    * Course name 
    * Instructor\(s\)
+   * Link to Team blog
 2. **Team**
    * Member names and bios that include relevant interests, skills, and capabilities.
 3. **Summary**
@@ -18,22 +19,28 @@
    * Timeline of events
    * List methods used with brief descriptions
    * Anticipated outcomes of each step and how they contributed to the project's development.
-5. **Outcomes**
+5. **Final Product **
+   * Depending on the nature of your project, this could be:
+     * Images of your final product or design
+     * Link to video, website, etc. 
+     * Additional files such as a ZIP archive, executable app, etc. 
+6. **Outcomes**
    * Analyze and deconstruct central issues using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
    * [Identify forces that impact form](https://vimeo.com/10875362)
    * Are there any ethical considerations?
    * Include figures and diagrams of conceptual relationships
    * Describe media used in digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
-6. **Lessons learned**
+7. **Lessons learned**
    * Assess how well the design process worked. What might be done to improve upon it or mitigate issues? All team members should candidly provide any issues they experienced or observed. These issues could include: Availability of team members, feeling of meaningful or equal contribution, types of design exercises used, role assignments, etc.
-7. **Bibliography**
-   * You can choose either APA or MLA format for document. See [documentation resources](/documentation-resources.md) for help.
+8. **Bibliography**
+   * You can choose either APA, MLA , or Chicago format for document. See [documentation resources](/documentation-resources.md) for help.
 
 ## Formatting requirements:
 
-1. PDF document in US Letter size.
-2. Please see [documentation resources](/documentation-resources.md) for guidance.
-3. Proofread and spellcheck
+* PDF document in US Letter size.
+* Please see [documentation resources](/documentation-resources.md) for guidance.
+* Proofread and spellcheck
+* Additional files if neccesary to show your completed work \(e.g. video, execuatable app, ZIP archive, etc.\)
 
 ## Submission details:
 
