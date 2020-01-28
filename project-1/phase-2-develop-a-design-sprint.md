@@ -14,14 +14,14 @@ The sprint document should include:
    * Team member names
    * Course name
    * Instructor\(s\)
-2. **Schedule:** Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a schedule. Name the method and describe what occurs in each session with the anticipated outcomes.
+2. **Schedule:** Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a schedule that plots a course to the final project due date. Name the method and describe what occurs in each session with the anticipated outcomes.
    * **Session:** Day, time, duration of session
    * **Method name:** Include one or more methods for each category in the following list. You may repeat categories and methods as often as needed, and they do not all need to be collaborative or group based:
      * Research, discovery
      * Ideation, concept development
      * Production, testing, iteration
      * Analysis, feedback
-   * **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. 
+   * **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. You may include specific tools you plan to use or specific group members who will complete a task.
 
 ## Project Blog
 
