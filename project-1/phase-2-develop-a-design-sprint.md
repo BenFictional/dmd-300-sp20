@@ -23,6 +23,8 @@ The sprint document should include:
      * Analysis, feedback
    * **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. 
 
+## Project Blog
+
 The project blog should be hosted using [Sites at Penn State](http://sites.psu.edu) \(which uses Wordpress\). Your team should use this blog to track the progress of the project and to show interesting project outcomes.
 
 * [You can add multiple users](https://www.wpbeginner.com/beginners-guide/how-to-add-new-users-and-authors-to-your-wordpress-blog/) to a blog so everyone can edit and create posts. 
