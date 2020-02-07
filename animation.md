@@ -19,6 +19,8 @@ Animation projects can be fully 2D, 3D, or a combination of the two.
 
 The following are common production requirements for most types of animations, and may include more or fewer depending on the project. They can also occur in different orders, but in general, if these steps are followed, you are more likely to produce a successful animation.
 
+After creating a script and storyboard, you will have to choose one or more software tools to create your video and audio elements. If you're unsure which of the following software to use, ask your instructor! 
+
 1. **Concept art**
    * [Concept art playlist on Youtube](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
 2. **Storyboarding**
@@ -29,44 +31,47 @@ The following are common production requirements for most types of animations, a
    * [Final Draft](https://www.finaldraft.com/)
 4. **Mood boards**
    * [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
-   * [InVision ](https://www.invisionapp.com/)Inspiration Board tool
-5. **Animatic and layout**
-   * [Animatic](https://www.lynda.com/Animation-tutorials/Animatics-layouts/466191/511830-4.html?org=psu.edu)
+   * [InVision ](https://www.invisionapp.com/)\(collaborative inspiration board tool\)
+5. **Animatics **
+   * [Animatic Foundations: Storyboarding](https://www.linkedin.com/learning/animation-foundations-storyboarding) \(LinkedIn Learning\)
+   * [Example of animatic](https://www.youtube.com/watch?v=hc0QWK_Kv3g) \(animated storyboard\) from Into the Spiderverse
 6. **Sound recording**
    * [Sound foley](https://www.youtube.com/watch?v=U_tqB4IZvMk)
-   * \[Recording narration and actor dialogue\]\([http://www.scarycow.com](http://www.scarycow.com)
+   * [Recording narration and actor dialogue](http://www.scarycow.com/lowbudgetaudio)
    * [FreeSound](https://freesound.org/) — Library of Creative commons sound effects
    * [Free Music Archive](https://freemusicarchive.org/) — Library of creative commons music
-     /lowbudgetaudio/\)
 7. **Testing** renders, lighting, animation, and simulation as needed
 8. **Animation production**
+
    * Traditional animation
-     * [Lynda learning path](https://www.lynda.com/learning-paths/3D-Animation/become-a-2d-digital-animator)
+     * [LinkedIn learning path](https://www.linkedin.com/learning/paths/become-a-2d-digital-animator?u=76811570)
      * Tools: [ToonBoom](https://www.toonboom.com/), [Blender grease pencil](https://www.youtube.com/watch?v=pywbPQD9vYU)
    * 3D animation and simulation
-     * [Animation pipeline](https://www.lynda.com/Blender-tutorials/Animation-Pipeline-Production/642458-2.html?org=psu.edu)
+     * [Animation pipeline](https://www.linkedin.com/learning/animation-pipeline-production/welcome?u=76811570) \(LinkedIn Learning\)
      * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini-apprentice/)
      * [3D Realtime film](https://unity.com/solutions/film/real-time-filmmaking-explained)
    * Motion design
-     * [Lynda learning path](https://www.lynda.com/learning-paths/Video/become-a-motion-graphics-artist)
+     * [LinkedIn Learning path](https://www.linkedin.com/learning/paths/become-a-motion-graphics-artist?u=76811570)
      * Tools: [AfterEffects](https://www.adobe.com/products/aftereffects.html), [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
+       * [AfterEffects CC 2019 Essential Training: The Basics ](https://www.linkedin.com/learning/after-effects-cc-2019-essential-training-the-basics/)\(LinkedIn Learning\)
+       * [AfterEffects Character Animation](https://www.linkedin.com/learning/after-effects-cc-2019-character-animation-essential-training/welcome?u=76811570) \(LinkedIn Learning\)
+
 9. **Scoring**
 
-   * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu) — Simple MIDI instruments and editing. 
-   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu) — Edit audio right in your video editor or export entire projects to Audition...
-   * [Adobe Audition](https://www.adobe.com/products/audition.html) — Dedicated audio editor, record and mix \(no MIDI instruments\)
-   * [Ableton Live](https://www.ableton.com/en/) — Great MIDI and recording suite, relatively cheap, great for electronic music.
+   * [GarageBand](https://www.linkedin.com/learning/premiere-pro-guru-audio-workflow-and-the-essential-sound-panel/) — Simple MIDI instruments and editing. 
+   * [Premiere Pro](https://www.linkedin.com/learning/premiere-pro-guru-audio-workflow-and-the-essential-sound-panel/) — Edit audio right in your video editor or export entire projects to Audition...
+   * [Adobe Audition](https://www.linkedin.com/learning/audition-cc-2019-essential-training/discover-adobe-audition-2019?u=76811570) \(LinkedIn Essential Training\) — Dedicated audio editor, record and mix, easily interface with Premiere \(no MIDI instruments\)
+   * [Ableton Live](https://www.linkedin.com/learning/premiere-pro-guru-audio-workflow-and-the-essential-sound-panel/) \(LinkedIn Essential Training\) — Great MIDI and recording suite, relatively cheap, great for electronic music.
    * [Logic Pro](https://www.apple.com/logic-pro/) — Record and mix, MIDI instruments \(especially ones that sound like traditional strings, brass, etc.\)
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu) — Industry standard for recording and mixing; expensive.
-
 
 10. **Effects, editing, compositing, rendering**
 
     * Effects
-      * [Adobe AfterEffects](https://www.lynda.com/After-Effects-tutorials/After-Effects-CC-2018-VFX-Essential-Training/648933-2.html?org=psu.edu)
+      * [Adobe AfterEffects](https://www.linkedin.com/learning/after-effects-cc-2019-essential-training-vfx/welcome?u=76811570)
     * Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
-      * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
-      * [DaVinci Resolve](https://www.lynda.com/DaVinci-Resolve-tutorials/Learning-DaVinci-Resolve-14/704152-2.html?org=psu.edu)
+      * [Adobe Premiere Pro Essential Training](https://www.linkedin.com/learning/premiere-pro-2020-essential-training/welcome?u=76811570) \(LinkedIn Learning\)
+      * [DaVinci Resolve](https://www.linkedin.com/learning/learning-davinci-resolve-16/getting-up-to-speed-with-davinci-resolve-16?u=76811570)\ (LinkedIn Learning\)
     * Compositing
       * [Natron](https://natrongithub.github.io/)
       * [Nuke](https://www.foundry.com/products/nuke)

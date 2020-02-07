@@ -39,7 +39,7 @@ There are a few ways to approach a project design project. To participate in a r
      * Advanced fabrication: CNC Routing, turning, and milling, water-jet cutting \(using fabrication equipment requires proximity to PSU Main Campus and coordination with facility operators in advance\)
      * Device programming: [Arduino](https://www.arduino.cc/)
    * User Experience design
-     * [Lynda.com UX pathway](https://www.lynda.com/learning-paths/Design/become-a-user-experience-designer)
+     * [LinkedIn Learning UX Learning Pathway](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=76811570)
      * **Wireframe software:** Use Photoshop, Figma, or Sketch to design wireframes for
      * **Interactive prototyping:** Figma, Adobe xD, InvisionApp for interactive high fidelity UI prototypes
    * Web design and development
@@ -48,7 +48,7 @@ There are a few ways to approach a project design project. To participate in a r
      * [Webflow](https://webflow.com/): powerful visual development app \(like Wix and other drag-and-drop tools but much closer to professional dev capabilities\).
      * **Everything list:** [Extensive list of web tools and technology](https://free-for.dev/)
    * App Development 
-     * Xcode — Apple's developement suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this. Courses available on LinkedIn Learning. 
+     * [Xcode](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570) — Apple's developement suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this. 
 3. Testing and analysis
    * User testing
    * Performance testing

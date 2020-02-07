@@ -20,12 +20,12 @@
 * Augmented Reality \(AR\)
   * [AR with Unreal Engine](https://www.lynda.com/Software-Development-tutorials/AR-Unreal-Engine/647670/707639-4.html?org=psu.edu)
   * ARKit and Unity
-    * [Lynda.com: Build a Drivable Car in Augmented Reality](https://www.lynda.com/Unity-3D-tutorials/ARKit-Unity-Build-Drivable-Car-Augmented-Reality/784294-2.html?org=psu.edu)
+    * [Lynda.com: Build a Drivable Car in Augmented Reality](https://www.linkedin.com/learning/arkit-and-unity-build-a-drivable-car-in-augmented-reality/introduction?u=76811570)
   * AR: XCode and UnrealEngine
-    * [Lynda.com: https://www.lynda.com/Xcode-tutorials/Introduction-AR-Unreal-Xcode-Developers/667374-2.html?org=psu.edu](https://www.lynda.com/Xcode-tutorials/Introduction-AR-Unreal-Xcode-Developers/667374-2.html?org=psu.edu)
+    * [Using XCode and Unreal together](https://www.linkedin.com/learning/introduction-to-ar-with-unreal-and-xcode-for-developers/welcome?u=76811570)
 * Virtual Reality \(VR\)
   * Fundamentals
-    * [Lynda.com: Mixed Reality Development Fundamentals](https://www.lynda.com/Azure-tutorials/Mixed-Reality-Development-Fundamentals/693098-2.html?org=psu.edu)
+    * [Mixed Reality Development Fundamentals](https://www.linkedin.com/learning/mixed-reality-development-fundamentals/introduction?u=76811570)
   * [Getting started with VR in Unity](https://learn.unity.com/tutorial/vr-best-practice) 
   * [Getting started with VR in UnrealEngine4](https://www.tomlooman.com/getting-started-with-vr/)
 * Computer vision and SDK
