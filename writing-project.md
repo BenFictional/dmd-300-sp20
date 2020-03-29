@@ -1,10 +1,10 @@
 # Writing project
 
-Locate two to five artists, designers, or influential art or design studios that are related to your interests in some way. Locate journal articles, interviews, book chapters, etc., to aid in your research.
+**Analyze two to five artists, designers, or influential art or design studios** that are related to your interests in some way. Locate journal articles, interviews, book chapters, etc., to aid in your research. Some potential resources are listed below; you are encouraged too look for new, obscure, historical, or otherwise thought-provoking creators—not just mainstream pop culture.
 
 **Writing prompts:**
 
-The following are not required 'sections,' rather they are prompts to help you focus your writing and research.
+The following are not required 'sections,' rather they are suggested prompts to help you focus your writing and research. Please do not number your essay with these sections; follow whatever path of inquiry seems interesting to you.
 
 1. Summarize their work, their legacy and their impact on a particular art or design field.
 2. Can you identify central themes, patterns, or behaviors in their work or habits?
@@ -12,7 +12,9 @@ The following are not required 'sections,' rather they are prompts to help you f
 4. What was their path to get to where they are?  
 5. Distill their ideas and achievements into main points and then relate those points to your own work, interests, learning path, and/or future plans.
 
-Whatever you choose to focus on, organzie your thoughts into a cohesive essay, including an introduction, conclusion, and paragrpahs devoted to discrete topics. Build your essay around a main idea or opinion of the work in question. Don't just summerize! Reveal your own point of view and connections by offering a new take on the material.
+**Organzie your thoughts into a cohesive essay,** including an introduction, conclusion, and paragrpahs devoted to discrete topics. Build your essay around a main idea or opinion of the work in question. Don't just summerize! Reveal your own point of view and connections by offering a new take on the material.
+
+**For each creator that you discuss, include a description of one or more work**. Your description should familiarize the reader with the appearance, subject matter, distribution or exhibition context, and visual design choices made by the artist or designer. Use descriptive adjectives to articulate the precise aesthetic style or mood of the work.
 
 ## Requirements
 
