@@ -36,6 +36,14 @@ Please write the statement using proper grammar, sentence structure, and with co
 * [artspeak.wtf](https://artspeak.wtf/)
 * [The Guardian: A user's guide to artspeak](https://www.theguardian.com/artanddesign/2013/jan/27/users-guide-international-art-english)
 
+### Artist Statements
+
+The Work Statement is specifically about this project, but artist statements are a helpful analog. These are short, pithy statements that summarize an artist's entire body of work. Good ones minimize "artspeak" \(above\) in favor of intimate and provocative accompaniments to their work.
+
+* [How to Write an Artist Statement](https://thecreativeindependent.com/guides/how-to-write-an-artist-statement/)
+* [Sample Artist Statements](https://www.gyst-ink.com/sample-artist-statements)
+* [Artist Statements We Love](https://www.theartleague.org/blog/2015/08/24/8-artist-statements-we-love/)
+
 ## Submission details:
 
 1. Upload the work statement as an MS Word Document to Canvas as indicated deadlines.
