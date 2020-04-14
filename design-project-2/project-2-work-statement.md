@@ -11,9 +11,10 @@ Please write the statement using proper grammar, sentence structure, and with co
 1. Include your name, project title, and year.
 2. Explain what the project is and how it works.
    1. "This project is an online game for children that teaches players living in war-torn countries how to avoid landmines." 
-3. Describe the type of media used.
-4. Describe the design challenge \(the provocation, or existing problem you hope to tackle\)
-5. Describe the process or how you approached solving for the design challenge
+3. Describe the type of media used and why that choise is effective or interesting.
+4. Describe the design challenge that your work addresses \(the provocation, or existing problem you hope to tackle\)
+   1. Do not write about challenges _you had_ in producing the work.
+5. Describe the process or how you approached solving for the design challenge.
 6. Describe the impact the work might have, the context in which it sits, why it's interesting, etc.
 
 ### Statement writing advice
